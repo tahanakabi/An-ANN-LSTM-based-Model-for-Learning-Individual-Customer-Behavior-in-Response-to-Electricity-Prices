@@ -1,5 +1,4 @@
-# An-ANN-based-Model-for-Learning-Individual-Customer-Behavior-in-Response-to-Electricity-Prices
-An ANN-based Model for Learning Individual Customer Behavior in Response to Electricity Prices
+# An-ANN-based-Model-for-Learning-Individual-Customer-Behavior-in-Response-to-Electricity-Prices:
 Two new methods are
 presented for predicting the hourly loads using the outdoor
 temperatures, electricity prices and previous loads. The
